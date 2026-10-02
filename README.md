@@ -144,51 +144,23 @@ I'm focusing on understanding the fundamentals and building projects while learn
 
 </div>
 
----
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BVG-VARMA&hide_border=true" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
-<div align="center">
 
-<a href="https://www.linkedin.com/in/venugopalvarmabattula/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
- 
-
-<a href="mailto:venug2762@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
- 
-
-<a href="https://github.com/BVG-VARMA">
-<img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 <br>
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/venugopalvarmabattula/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
 
    
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:venug2762@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>
 
