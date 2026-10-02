@@ -5,7 +5,7 @@
 ### 💻 Computer Science Engineering Student
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+%7C+DSA+%7C+Web+Development;Learning+by+Building+Projects;Always+Learning%2C+Always+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+%7C+DSA+%7C+MERN+Stack;Learning+by+Building+Projects;Always+Learning%2C+Always+Improving" />
 </p>
 
 <p>
@@ -18,12 +18,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student interested in **software development, problem solving, and building practical applications**.
+I'm a Computer Science Engineering student interested in **software development, problem solving, and building practical full-stack applications**.
 
 * 🎓 CSE Student
-* 💻 Currently learning **Java & DSA**
-* 🌐 Interested in **Web Development**
-* 🗄️ Learning **SQL & Databases**
+* ☕ Learning and practicing **Java & DSA**
+* ⚛️ Building web applications with **React**
+* ⚙️ Working with **Node.js & Express.js**
+* 🍃 Working with **MongoDB**
+* 🌐 Interested in **MERN Stack Development**
 * 🚀 Building projects to improve my practical skills
 * 📚 Focused on learning fundamentals and improving step by step
 
@@ -37,13 +39,21 @@ I'm a Computer Science Engineering student interested in **software development,
 
 <img src="https://skillicons.dev/icons?i=java,c,js" />
 
-### 🌐 Web Development
+### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
-### 🗄️ Database & Tools
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" />
+
+### 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -57,7 +67,7 @@ I'm a Computer Science Engineering student interested in **software development,
 
 ### 🏠 HOUSERENT
 
-A web-based project related to house rentals.
+A web-based project related to house rentals, developed as a practical web development project.
 
 </td>
 
@@ -65,7 +75,7 @@ A web-based project related to house rentals.
 
 ### 🛕 DarshanEase
 
-A web application project focused on simplifying the darshan-related experience.
+A web application project focused on simplifying and organizing the darshan-related experience.
 
 </td>
 </tr>
@@ -75,15 +85,15 @@ A web application project focused on simplifying the darshan-related experience.
 
 ### 💻 CodeAlpha Tasks
 
-A collection of tasks completed during my internship/project experience.
+A collection of projects and tasks completed during my CodeAlpha internship.
 
 </td>
 
 <td width="50%">
 
-### 🌱 More Projects Coming
+### 📋 Trello Clone
 
-Currently learning and building new projects to improve my development skills.
+A full-stack task management application built to practice **React, Node.js, Express.js and MongoDB**.
 
 </td>
 </tr>
@@ -100,14 +110,16 @@ Java
   ↓
 Data Structures & Algorithms
   ↓
-Backend Development
+MERN Stack
   ↓
-Full-Stack Development
+Spring Boot
+  ↓
+Advanced Full-Stack Development
 ```
 
 </div>
 
-I'm focusing on understanding the fundamentals and building projects while learning.
+I'm focusing on understanding the fundamentals, solving problems, and building projects while learning.
 
 ---
 
@@ -115,8 +127,10 @@ I'm focusing on understanding the fundamentals and building projects while learn
 
 * [ ] Strengthen Java fundamentals
 * [ ] Practice Data Structures & Algorithms
-* [ ] Build more practical projects
-* [ ] Learn backend development
+* [ ] Build more practical full-stack projects
+* [ ] Improve React and backend development
+* [ ] Strengthen MongoDB and SQL skills
+* [ ] Learn Spring Boot
 * [ ] Improve problem-solving skills
 * [ ] Contribute to open-source projects
 
@@ -144,11 +158,9 @@ I'm focusing on understanding the fundamentals and building projects while learn
 
 </div>
 
-
+---
 
 ## 🤝 Let's Connect
-
-
 
 <br>
 
