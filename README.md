@@ -3,6 +3,7 @@
 <img src="https://github.com/BVG-VARMA/BVG-VARMA/raw/main/assets/profile-banner.png" alt="BVG-VARMA banner" width="100%"/>
 
 # Hey there, I'm Venu Gopal Varma 👋
+<img src="https://avatars.githubusercontent.com/u/262855348?v=4" width="150" height="150" style="border-radius:50%" alt="Venu Gopal Varma"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+🎓;Java+%26+DSA+Enthusiast+☕;Web+Developer+in+the+Making+🌐;Turning+ideas+into+real-world+software+🚀)](https://github.com/BVG-VARMA)
 
@@ -20,23 +21,6 @@
 
 ---
 
-## 📑 Table of Contents
-
-- [About Me](#-about-me)
-- [My Goals](#-my-goals)
-- [Tech Stack](#️-tech-stack)
-- [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
-- [Contribution Activity](#-contribution-activity)
-- [Trophies](#-trophies)
-- [Learning Roadmap](#-learning-roadmap)
-- [Progress Tracker](#-progress-tracker)
-- [Daily Routine](#-my-daily-routine)
-- [Fun Facts](#-fun-facts)
-- [Open To](#-open-to)
-- [Let's Connect](#-lets-connect)
-
----
 
 ## 🧑‍💻 About Me
 
@@ -143,17 +127,19 @@ A theory-of-computation project on minimizing deterministic finite automata.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BVG-VARMA&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%"/>
+<img src="https://ghchart.rshah.org/2ea043/BVG-VARMA" alt="BVG-VARMA contribution chart" width="100%"/>
 
 </div>
-
 ---
 
-## 🏆 Trophies
+## 🏆 Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BVG-VARMA&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies"/>
+![Followers](https://img.shields.io/github/followers/BVG-VARMA?style=for-the-badge&logo=github&color=111827)
+![Repos](https://img.shields.io/badge/Public_Repos-10-06b6d4?style=for-the-badge&logo=github)
+![Projects](https://img.shields.io/badge/Full--Stack_Projects-1-7c3aed?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-In_Progress-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
