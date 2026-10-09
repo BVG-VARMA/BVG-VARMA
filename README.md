@@ -1,134 +1,232 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3" width="100%" />
+<img src="https://github.com/BVG-VARMA/BVG-VARMA/raw/main/assets/profile-banner.png" alt="BVG-VARMA banner" width="100%"/>
 
-# Venu Gopal Varma
+# Hey there, I'm Venu Gopal Varma 👋
 
-### Computer Science Engineering Student | Full-Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+🎓;Java+%26+DSA+Enthusiast+☕;Web+Developer+in+the+Making+🌐;Turning+ideas+into+real-world+software+🚀)](https://github.com/BVG-VARMA)
 
-Building practical applications, exploring new technologies, and improving my problem-solving skills.
+![Profile Views](https://komarev.com/ghpvc/?username=BVG-VARMA&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/BVG-VARMA?style=for-the-badge&logo=github&color=111827)](https://github.com/BVG-VARMA?tab=followers)
+[![Repos](https://img.shields.io/badge/Public_Repos-10-06b6d4?style=for-the-badge&logo=github)](https://github.com/BVG-VARMA?tab=repositories)
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+![Location](https://img.shields.io/badge/Location-Andhra_Pradesh,_India-7c3aed?style=for-the-badge)
 
-<a href="https://github.com/BVG-VARMA">
-  <img src="https://img.shields.io/badge/GitHub-BVG--VARMA-161B22?style=flat-square&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=BVG-VARMA&style=flat-square&color=64748b&label=PROFILE+VIEWS" />
+*Turning ideas into real-world solutions, one commit at a time.*
 
 </div>
 
 ---
 
-## About Me
+## 📑 Table of Contents
 
-I'm a Computer Science Engineering student interested in software development, full-stack applications, and problem-solving. I enjoy turning ideas into working projects and learning through hands-on development.
-
-* 🎓 Pursuing B.Tech in Computer Science Engineering
-* 💻 Interested in full-stack web development
-* 🌱 Strengthening my Java and Data Structures & Algorithms fundamentals
-* 🛠️ Building projects with modern web technologies
-* 🤝 Interested in hackathons, collaboration, and real-world engineering challenges
-
-## Technical Skills
-
-**Programming Languages**
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
-**Frontend Development**
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-</p>
-
-**Backend & Databases**
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
-
-## Featured Projects
-
-### 01 · CityFix
-
-**Civic Issue Reporting & Resolution Platform**
-
-A web application concept that helps citizens report civic problems such as potholes, garbage overflow, and broken streetlights while enabling administrators to manage and track issue resolution.
-
-* Citizen issue reporting and status tracking
-* Backend APIs and real-time update capabilities
-
-**Technologies:** React · Node.js · Express.js · Socket.IO
-
-[View Repository →](https://github.com/BVG-VARMA/CITYFIX)
-
-### 02 · WCAGuard
-
-**Web Accessibility Analysis**
-
-A project focused on identifying website accessibility issues and helping developers improve the accessibility of web experiences.
-
-**Technologies:** React · Vite · Playwright · axe-core · Supabase
-
-*Add the public repository link here when available.*
-
-### 03 · DFA Minimization
-
-**Automata Theory Learning Tool**
-
-An interactive web project for exploring Deterministic Finite Automata and understanding DFA minimization.
-
-**Technologies:** HTML · CSS · JavaScript
-
-[View Repository →](https://github.com/BVG-VARMA/DFA-Minimization)
-
-## GitHub Overview
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BVG-VARMA&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BVG-VARMA&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" />
-
-</div>
-
-## Certifications
-
-* **Python Essentials 1 & 2** — Cisco Networking Academy
-* **JavaScript Essentials 1** — Cisco Networking Academy
-* **Introduction to Cloud Computing** — Simplilearn
-
-## Current Focus
-
-* Strengthening Java programming and DSA
-* Practicing algorithmic problem-solving
-* Developing and improving full-stack applications
-* Learning software engineering best practices
+- [About Me](#-about-me)
+- [My Goals](#-my-goals)
+- [Tech Stack](#️-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [GitHub Stats](#-github-stats)
+- [Contribution Activity](#-contribution-activity)
+- [Trophies](#-trophies)
+- [Learning Roadmap](#-learning-roadmap)
+- [Progress Tracker](#-progress-tracker)
+- [Daily Routine](#-my-daily-routine)
+- [Fun Facts](#-fun-facts)
+- [Open To](#-open-to)
+- [Let's Connect](#-lets-connect)
 
 ---
 
+## 🧑‍💻 About Me
+
+- 🎓 I'm a **B.Tech Computer Science and Engineering** student.
+- 🚀 I learn by building practical projects, from civic issue reporting to web accessibility.
+- ☕ I practice **Java and Data Structures & Algorithms** regularly.
+- 🌐 I'm growing as a **web developer**, working on frontend and full-stack apps.
+- 🤖 I'm also exploring **Python and machine learning** fundamentals.
+- 🎯 My aim is to build useful software, contribute to meaningful projects, and become a strong developer.
+- ⚡ **Motto:** *Stay curious. Keep building. Improve every day.*
+
+---
+
+## 🎯 My Goals
+
+### 📅 Short term (next 3 months)
+- Solve DSA problems consistently in Java
+- Finish and polish **WCAGuard** and **CITYFIX**
+- Add screenshots, demos, and clear READMEs to every featured project
+- Learn Git workflows properly: branches, pull requests, code reviews
+
+### 📆 Mid term (next 6-12 months)
+- Contribute to at least one open-source project
+- Build and publish a personal portfolio website
+- Learn a backend framework in depth and ship a full-stack project with deployment
+- Land an internship
+
+### 🚀 Long term
+- Become a strong full-stack developer with solid fundamentals
+- Work as a software developer on products that people use
+- Explore machine learning and apply it in real projects
+- Mentor other beginners the way I was helped
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🏙️ [CITYFIX](https://github.com/BVG-VARMA/CITYFIX)
+A full-stack civic issue management system connecting citizens and local authorities.
+- Citizens report issues with images, descriptions, and location
+- Administrators track, manage, and resolve reported issues
+- **Focus:** full-stack development, real-world problem solving
+
+### 🛕 [DarshanEase](https://github.com/BVG-VARMA/DarshanEase)
+A web application that simplifies accessing and managing darshan-related information.
+- **Focus:** user-friendly web interface, information management
+
+### ♿ [WCAGuard](https://github.com/BVG-VARMA/WCAGuard) *(in progress)*
+A web accessibility project that helps identify accessibility issues and improve inclusive web experiences.
+- **Focus:** accessibility (WCAG), inclusive design
+
+### 🏠 [HOUSERENT](https://github.com/BVG-VARMA/HOUSERENT)
+A web-based house rental application built to practice frontend and application development.
+- **Focus:** frontend development, UI structure
+
+### ☕ [java-dsa](https://github.com/BVG-VARMA/java-dsa)
+A Java and DSA practice repository covering concepts, implementations, and problem solving.
+- **Focus:** problem solving, core Java, algorithms
+
+### 🧮 [DFA-Minimization](https://github.com/BVG-VARMA/DFA-Minimization)
+A theory-of-computation project on minimizing deterministic finite automata.
+- **Focus:** automata theory, algorithms
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-**Open to learning, collaboration, and meaningful development opportunities.**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=BVG-VARMA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BVG-VARMA&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-*Learn continuously. Build thoughtfully. Improve consistently.*
+<img src="https://streak-stats.demolab.com?user=BVG-VARMA&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BVG-VARMA&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BVG-VARMA&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## 🗺️ Learning Roadmap
+
+| Area | Topics | Status |
+|------|--------|--------|
+| **Core Java** | OOP, collections, exceptions, streams | 🟡 In progress |
+| **DSA** | Arrays, strings, recursion, trees, graphs, DP | 🟡 In progress |
+| **Web Frontend** | HTML, CSS, JavaScript, responsive design | 🟢 Building |
+| **Backend** | APIs, authentication, databases | 🟡 Learning |
+| **Git & GitHub** | Branching, PRs, open-source workflow | 🟡 Learning |
+| **Machine Learning** | Python, NumPy, Pandas, basic models | 🔵 Planned |
+| **System Design basics** | Scalability, databases, APIs | 🔵 Planned |
+
+---
+
+## ✅ Progress Tracker
+
+- [x] Created my GitHub profile README
+- [x] Built first full-stack project (CITYFIX)
+- [x] Started DSA practice in Java
+- [x] Built multiple web projects (HOUSERENT, DarshanEase)
+- [ ] Add live demos to all featured projects
+- [ ] Complete WCAGuard
+- [ ] Solve 200+ DSA problems
+- [ ] First open-source contribution
+- [ ] Build my portfolio website
+- [ ] Get my first internship
+
+---
+
+## ⏰ My Daily Routine
+
+```text
+📚 Learn   →  one new concept (Java / DSA / Web)
+🧩 Practice →  solve at least 1-2 problems
+🛠️ Build   →  add something to a project
+📝 Reflect →  note what I learned, commit it
+```
+
+---
+
+## 🎲 Fun Facts
+
+- 🧠 I enjoy turning real-life problems into software
+- 🌏 I'm based in Andhra Pradesh, India
+- 🔁 I believe consistency beats intensity
+- 💬 Ask me about Java, DSA, or web development
+
+---
+
+## 💼 Open To
+
+- ✅ Internships
+- ✅ Collaboration on student and open-source projects
+- ✅ Learning from mentors and peers
+- ✅ Hackathons and coding challenges
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BVG-VARMA)
+
+<div align="center">
+
+### “Small steps every day lead to big results.”
+
+⭐ *Thanks for stopping by! If something here interests you, explore my repositories.*
 
 </div>
