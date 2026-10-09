@@ -1,195 +1,97 @@
+<!--
+PROFILE README SETUP
+1. Create a public repository named exactly: BVG-VARMA
+2. Upload this README.md and the assets/ folder to the repository's main branch.
+3. Replace the project links and social links marked TODO before publishing.
+-->
+
 <div align="center">
+  <img src="assets/profile-banner.png" alt="BVG-VARMA — dark neon pixel-art student developer banner" width="100%" />
 
-# 👋 Hi, I'm Venu Gopal Varma
+  <h1>Hey there, I'm Venu Gopal Varma 👋</h1>
+  <h3>🎓 B.Tech CSE Student | 💻 Student Developer | 🌱 Always Learning</h3>
 
-### 💻 Computer Science Engineering Student
+  <p>
+    <em>Turning ideas into real-world solutions — one commit at a time.</em>
+  </p>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+%7C+DSA+%7C+MERN+Stack;Learning+by+Building+Projects;Always+Learning%2C+Always+Improving" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=BVG-VARMA&label=Profile%20Views&style=flat" />
-</p>
-
+  <p>
+    <a href="https://github.com/BVG-VARMA">
+      <img src="https://img.shields.io/badge/GitHub-BVG--VARMA-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-06b6d4?style=for-the-badge" alt="Learning and building" />
+    <img src="https://img.shields.io/badge/Location-India-7c3aed?style=for-the-badge" alt="India" />
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a Computer Science Engineering student interested in **software development, problem solving, and building practical full-stack applications**.
+- 🎓 I'm a **B.Tech Computer Science and Engineering student**.
+- 🚀 I enjoy building practical projects and learning by doing.
+- 🧠 Currently strengthening my programming, problem-solving, and software-development skills.
+- 🔍 Exploring **Java, Python, web development, and machine learning**.
+- 🎯 Goal: build useful software, contribute to meaningful projects, and grow as a developer.
+- ⚡ Motto: **Stay curious. Keep building. Improve every day.**
 
-* 🎓 CSE Student
-* ☕ Learning and practicing **Java & DSA**
-* ⚛️ Building web applications with **React**
-* ⚙️ Working with **Node.js & Express.js**
-* 🍃 Working with **MongoDB**
-* 🌐 Interested in **MERN Stack Development**
-* 🚀 Building projects to improve my practical skills
-* 📚 Focused on learning fundamentals and improving step by step
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,c,js" />
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" />
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,flutter,dart,git,github,vscode,mysql,mongodb&perline=7" alt="Technology icons" />
 </div>
 
----
+> Keep only the technologies you have actually used or are actively learning. Remove any icons that don't fit your experience.
 
-## 🚀 Projects
+## 📌 Featured Projects
+
+<!-- Replace each TODO link and description with your actual repositories. -->
 
 <table>
-<tr>
-<td width="50%">
-
-### 🏠 HOUSERENT
-
-A web-based project related to house rentals, developed as a practical web development project.
-
-</td>
-
-<td width="50%">
-
-### 🛕 DarshanEase
-
-A web application project focused on simplifying and organizing the darshan-related experience.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💻 CodeAlpha Tasks
-
-A collection of projects and tasks completed during my CodeAlpha internship.
-
-</td>
-
-<td width="50%">
-
-### 📋 Trello Clone
-
-A full-stack task management application built to practice **React, Node.js, Express.js and MongoDB**.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>♿ WCAGuard</h3>
+      A web accessibility project focused on helping identify accessibility issues and improve inclusive web experiences.
+      <br/><br/>
+      <a href="https://github.com/BVG-VARMA/WCAGuard"><img src="https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github&logoColor=white" alt="View WCAGuard repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚧 Project in Progress</h3>
+      Add a short description of another project you have built, what problem it solves, and the technologies used.
+      <br/><br/>
+      <a href="https://github.com/BVG-VARMA?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-0ea5e9?style=flat&logo=github&logoColor=white" alt="Explore repositories" /></a>
+    </td>
+  </tr>
 </table>
 
----
-
-## 📚 Currently Learning
+## 📊 GitHub Dashboard
 
 <div align="center">
-
-```text
-Java
-  ↓
-Data Structures & Algorithms
-  ↓
-MERN Stack
-  ↓
-Spring Boot
-  ↓
-Advanced Full-Stack Development
-```
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BVG-VARMA&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub account statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BVG-VARMA&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages on public repositories" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=BVG-VARMA&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-I'm focusing on understanding the fundamentals, solving problems, and building projects while learning.
+> Stats cards are provided by third-party services and may occasionally be unavailable. Language cards reflect repository contents, not necessarily your overall skill level.
 
----
+## 🌱 Currently Learning
 
-## 🎯 2026 Goals
+- Data Structures and Algorithms
+- Object-oriented programming with Java
+- Responsive web development
+- Machine learning fundamentals
+- Writing cleaner, more maintainable code
 
-* [ ] Strengthen Java fundamentals
-* [ ] Practice Data Structures & Algorithms
-* [ ] Build more practical full-stack projects
-* [ ] Improve React and backend development
-* [ ] Strengthen MongoDB and SQL skills
-* [ ] Learn Spring Boot
-* [ ] Improve problem-solving skills
-* [ ] Contribute to open-source projects
-
----
-
-## 📊 GitHub Stats
+## 🤝 Connect With Me
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BVG-VARMA&show_icons=true&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BVG-VARMA&layout=compact&hide_border=true" />
-
+  <a href="https://github.com/BVG-VARMA"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <!-- TODO: Add your real LinkedIn profile URL below, then uncomment the line. -->
+  <!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 </div>
 
----
-
-## 🔥 GitHub Streak
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BVG-VARMA&hide_border=true" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<br>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/venugopalvarmabattula/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-</a>
-
-   
-
-<a href="mailto:venug2762@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50" />
-</a>
-
-   
-
-<a href="https://github.com/BVG-VARMA">
-<img src="https://skillicons.dev/icons?i=github" width="50" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Learning • Building • Improving**
-
+  <h3>“Small steps every day lead to big results.”</h3>
+  <sub>Thanks for stopping by! ⭐ If something here interests you, explore my repositories.</sub>
 </div>
