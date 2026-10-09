@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/BVG-VARMA/BVG-VARMA/raw/main/assets/profile-banner.png" alt="BVG-VARMA banner" width="100%"/>
+<img src="https://avatars.githubusercontent.com/u/262855348?v=4" width="150" height="150" style="border-radius:50%" alt="Venu Gopal Varma"/>
 
 # Hey there, I'm Venu Gopal Varma 👋
 <img src="https://avatars.githubusercontent.com/u/262855348?v=4" width="150" height="150" style="border-radius:50%" alt="Venu Gopal Varma"/>
