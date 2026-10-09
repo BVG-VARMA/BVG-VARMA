@@ -1,95 +1,134 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Venu%20Gopal%20Varma&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CSE+Student;Java+%7C+DSA+Learner;Full+Stack+Web+Developer;Building+Projects+and+Learning+Every+Day" />
+# Venu Gopal Varma
+
+### Computer Science Engineering Student | Full-Stack Developer
+
+Building practical applications, exploring new technologies, and improving my problem-solving skills.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=BVG-VARMA&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/followers/BVG-VARMA?style=for-the-badge" />
+<a href="https://github.com/BVG-VARMA">
+  <img src="https://img.shields.io/badge/GitHub-BVG--VARMA-161B22?style=flat-square&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=BVG-VARMA&style=flat-square&color=64748b&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-* 🎓 B.Tech Computer Science Engineering student
-* 💻 Interested in full-stack development
-* 🌱 Currently learning Java and Data Structures & Algorithms
-* 🚀 Building practical projects and participating in hackathons
-* 🎯 Working towards becoming a skilled software developer
+I'm a Computer Science Engineering student interested in software development, full-stack applications, and problem-solving. I enjoy turning ideas into working projects and learning through hands-on development.
 
-## 🛠️ Tech Stack
+* 🎓 Pursuing B.Tech in Computer Science Engineering
+* 💻 Interested in full-stack web development
+* 🌱 Strengthening my Java and Data Structures & Algorithms fundamentals
+* 🛠️ Building projects with modern web technologies
+* 🤝 Interested in hackathons, collaboration, and real-world engineering challenges
+
+## Technical Skills
+
+**Programming Languages**
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+**Frontend Development**
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
+
+**Backend & Databases**
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+## Featured Projects
+
+### 01 · CityFix
+
+**Civic Issue Reporting & Resolution Platform**
+
+A web application concept that helps citizens report civic problems such as potholes, garbage overflow, and broken streetlights while enabling administrators to manage and track issue resolution.
+
+* Citizen issue reporting and status tracking
+* Backend APIs and real-time update capabilities
+
+**Technologies:** React · Node.js · Express.js · Socket.IO
+
+[View Repository →](https://github.com/BVG-VARMA/CITYFIX)
+
+### 02 · WCAGuard
+
+**Web Accessibility Analysis**
+
+A project focused on identifying website accessibility issues and helping developers improve the accessibility of web experiences.
+
+**Technologies:** React · Vite · Playwright · axe-core · Supabase
+
+*Add the public repository link here when available.*
+
+### 03 · DFA Minimization
+
+**Automata Theory Learning Tool**
+
+An interactive web project for exploring Deterministic Finite Automata and understanding DFA minimization.
+
+**Technologies:** HTML · CSS · JavaScript
+
+[View Repository →](https://github.com/BVG-VARMA/DFA-Minimization)
+
+## GitHub Overview
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BVG-VARMA&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BVG-VARMA&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" />
 
 </div>
 
-## 🚀 My Projects
+## Certifications
 
-### 🏙️ CityFix
+* **Python Essentials 1 & 2** — Cisco Networking Academy
+* **JavaScript Essentials 1** — Cisco Networking Academy
+* **Introduction to Cloud Computing** — Simplilearn
 
-A civic issue reporting platform for reporting potholes, garbage overflow, and broken streetlights.
+## Current Focus
 
-**Tech:** React, Node.js, Express.js, Socket.IO
+* Strengthening Java programming and DSA
+* Practicing algorithmic problem-solving
+* Developing and improving full-stack applications
+* Learning software engineering best practices
 
-[View CityFix Repository](https://github.com/BVG-VARMA/CITYFIX)
-
-### ♿ WCAGuard
-
-A web accessibility checking application that helps developers identify website accessibility issues.
-
-**Tech:** React, Vite, Node.js, Playwright, axe-core, Supabase
-
-### 🔄 DFA Minimization
-
-An interactive web project for learning and minimizing Deterministic Finite Automata.
-
-**Tech:** HTML, CSS, JavaScript
-
-[View DFA Minimization Repository](https://github.com/BVG-VARMA/DFA-Minimization)
-
-## 📊 GitHub Stats
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BVG-VARMA&show_icons=true&theme=tokyonight&hide_border=true" />
+**Open to learning, collaboration, and meaningful development opportunities.**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BVG-VARMA&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=BVG-VARMA&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📜 Certifications
-
-* Python Essentials 1 & 2 — Cisco Networking Academy
-* JavaScript Essentials 1 — Cisco Networking Academy
-* Introduction to Cloud Computing — Simplilearn
-
-## 🎯 Currently Working On
-
-* Strengthening Java and DSA fundamentals
-* Building full-stack web applications
-* Improving problem-solving skills
-* Exploring new technologies through projects and hackathons
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/BVG-VARMA">
-<img src="https://img.shields.io/badge/GitHub-BVG--VARMA-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
-<div align="center">
-
-*“Keep learning. Keep building. Keep improving.”* 🚀
+*Learn continuously. Build thoughtfully. Improve consistently.*
 
 </div>
