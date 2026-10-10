@@ -22,7 +22,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BVG-VARMA&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/BVG-VARMA.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7c3aed)
 [![Followers](https://img.shields.io/github/followers/BVG-VARMA?style=for-the-badge&logo=github&color=111827)](https://github.com/BVG-VARMA?tab=followers)
 [![Repos](https://img.shields.io/badge/Public_Repos-10-06b6d4?style=for-the-badge&logo=github)](https://github.com/BVG-VARMA?tab=repositories)
 ![Status](https://img.shields.io/badge/Status-Open_to_Internships-2ea043?style=for-the-badge)
