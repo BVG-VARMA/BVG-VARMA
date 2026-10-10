@@ -423,7 +423,7 @@ pie showData
 | 📝 **Reflect** | Note what I learned and commit it |
 
 ---
-
+<!--
 ## 💬 Ask Me About
 
 `Java` &nbsp; `DSA` &nbsp; `Web Development` &nbsp; `Accessibility (WCAG)` &nbsp; `Git & GitHub` &nbsp; `Automata Theory` &nbsp; `Starting out in CSE`
@@ -432,14 +432,14 @@ pie showData
 
 ## 🏅 Achievements & Certifications
 
-<!--
+
 Remove these comment markers and add your real achievements.
 
 | Year | Achievement | Issuer |
 |------|-------------|--------|
 | 2026 | Your certificate name | Coursera / NPTEL / etc. |
 | 2026 | Hackathon / contest result | Event name |
--->
+
 
 *Adding my certifications, hackathons and contest results here soon.*
 
@@ -447,7 +447,7 @@ Remove these comment markers and add your real achievements.
 
 ## 🌐 Coding Profiles
 
-<!--
+
 Remove these comment markers and put your real usernames.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
