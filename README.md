@@ -36,25 +36,20 @@
 
 ---
 
-## 👨‍💻 whoami
+## 👨‍💻 About Me
 
-```js
-const venu = {
-  name: "Venu Gopal Varma",
-  role: "B.Tech CSE Student & Developer",
-  location: "Andhra Pradesh, India",
-  currentlyBuilding: ["WCAGuard", "CITYFIX"],
-  currentlyLearning: ["Java OOP", "DSA", "Full-stack web", "Machine Learning basics"],
-  funFact: "I learn best by building things that solve real problems",
-  motto: "Stay curious. Keep building. Improve every day."
-};
-```
+I'm a B.Tech Computer Science student from Andhra Pradesh, India. I learn by building real projects, from a civic issue reporting system (CITYFIX) to a web accessibility tool (WCAGuard), and I practice Java and DSA regularly.
+
+- 🔨 **Building:** WCAGuard and CITYFIX improvements
+- 📖 **Learning:** Java OOP, DSA, full-stack web, machine learning basics
+- 🎯 **Goal:** internship, open-source contributions, and a career as a software developer
+- ⚡ **Motto:** Stay curious. Keep building. Improve every day.
 
 ---
 
 ## ⚡ Right Now
 
-<table>
+<table width="100%">
   <tr>
     <td width="25%" align="center"><h3>🔨 Building</h3>WCAGuard<br/>CITYFIX improvements</td>
     <td width="25%" align="center"><h3>📖 Learning</h3>Java OOP<br/>DSA in Java</td>
@@ -114,7 +109,7 @@ Problem Solving   ██████░░░░  60%
 
 ## 💡 What I Do
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
 
@@ -141,7 +136,7 @@ Care about accessibility, so websites work for everyone, not only some users.
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
 
